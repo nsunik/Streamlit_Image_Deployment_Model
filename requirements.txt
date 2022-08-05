@@ -1,6 +1,6 @@
 tensorflow
-numpy==1.19.5
+numpy
 streamlit
 classify
 scikit-image
-keras==2.7.0
+keras
