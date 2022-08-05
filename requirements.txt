@@ -1,6 +1,6 @@
-tensorflow==2.7.0
+tensorflow
 numpy==1.19.5
-streamlit==1.2.0
+streamlit
 classify
 scikit-image
 keras==2.7.0
